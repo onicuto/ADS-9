@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libADS-9.dylib -install_name @rpath/libADS-9.dylib "CMakeFiles/ADS-9.dir/alg.cpp.o"  -lpthread
