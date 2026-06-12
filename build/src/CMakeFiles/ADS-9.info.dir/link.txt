@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/ADS-9.info.dir/main.cpp.o" -o ADS-9.info  -Wl,-rpath,/Users/onicuto/Учеба/АиСД/ADS-9/build/src libADS-9.dylib -lpthread
